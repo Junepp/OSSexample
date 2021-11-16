@@ -5,6 +5,6 @@ int main(){
   for(i; i<3;i++){
     printf("%d\n", account[i]);
   }
-  printf("version 1.0.0\n");
+  printf("GitHub version 1.0.0\n");
   return 0;
 }
